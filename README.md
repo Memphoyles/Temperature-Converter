@@ -1,2 +1,3 @@
 # Temperature-Converter
-Basic temperature converter made with Python. Tkinter based (Kelvin, Celsius and Fahrenheit)
+Basic temperature converter made with Python and Tkinter based.
+Temperatures > Celsius, Kelvin and Fahrenheit.
