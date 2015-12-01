@@ -67,7 +67,7 @@ def check_entry():
 
 
 def update_entry():
-    temperature_input.trace("w", check_entry())
+    temperature_input.trace("u", check_entry())
     root.after(1, update_entry)
 
 
