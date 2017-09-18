@@ -10,7 +10,7 @@ Temperatures used -> Celsius, Kelvin and Fahrenheit.
 
   1. Make sure Tkinter module is correctly installed. It normally comes with Python but double check to avoid errors.
   2. Import into your IDE or run directly with cmd: 
-      - <i>python temperatureconverter.py</i>
+      - <i>python tempconverter.py</i>
   
 The GUI is pretty intuitive so you shouldn't have problems playing with it if you already used the calculator on Windows.
 
